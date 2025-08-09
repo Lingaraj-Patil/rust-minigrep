@@ -123,6 +123,7 @@ rust-minigrep/
 ├── Cargo.lock           # Dependency lock file
 ├── README.md            # Project documentation
 
+```
 ## 📝 Error Handling
 
 The application handles various error scenarios:
