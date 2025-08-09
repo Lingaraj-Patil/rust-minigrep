@@ -134,4 +134,4 @@ The application handles various error scenarios:
 
 ## 👤 Author
 
-**Your Name** - [@Lingaraj Patil](https://github.com/Lingaraj-Patil)
+**Lingaraj Patil** - [@Lingaraj-Patil](https://github.com/Lingaraj-Patil)
